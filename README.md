@@ -1,9 +1,6 @@
 # Data205
+<<<<<<< HEAD
 
-Hello World.
-
-This is my awesome project.
-
-This is a test.
-
-Hello Life
+=======
+This is my awesome capstone project, Data 205 at MC
+>>>>>>> 2d08b9676e3406e4f45f7531270e7e19922718ec
